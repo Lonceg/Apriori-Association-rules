@@ -4,6 +4,8 @@ Apriori algorithm allows to get frequent item sets from provided data, based on 
 
 Association rules can be in short described as situation where for example occurance of one even leads to occurence of another even within the dataset.
 
+These are mostly used for analyzing cusomer behaviour and store offer management.
+
 More upon this here: https://en.wikipedia.org/wiki/Association_rule_learning#:~:text=Support%20is%20the%20evidence%20of,Confidence%20and%20the%20actual%20Confidence.
 
 As an example that could be when a customer buys one product in a store, he is likely to buy another product in tandem.
